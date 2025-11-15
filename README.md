@@ -12,7 +12,7 @@ This project generates synthetic quantum measurement data with realistic noise m
 
 ## Installation
 
-### Option 1: Local Installation (Recommended)
+### Option 1: Local Installation
 
 ```bash
 # Create a virtual environment (optional but recommended)
